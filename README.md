@@ -8,7 +8,7 @@
 
 This project was built as part of a GRC Analyst portfolio to demonstrate real-world skills in compliance program design, risk assessment, gap analysis, and policy development.
 
-**Fictional Company:** NimbusCore Inc. — a cloud-based HR and payroll SaaS platform serving ~300 SMB clients on AWS.
+**Fictional Company:** NimbusCore Inc. a cloud-based HR and payroll SaaS platform serving ~300 SMB clients on AWS.
 
 **Frameworks Used:**
 - NIST Cybersecurity Framework (CSF) v1.1
