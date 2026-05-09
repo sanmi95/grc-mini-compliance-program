@@ -121,14 +121,3 @@ A simulated evidence collection log showing how a GRC analyst gathers and docume
 Built by **Gerardo Hernandez** as part of a hands-on GRC Analyst portfolio.
 
 All company names, personnel, and scenarios in this project are entirely fictional and created for educational and portfolio purposes only.
-
----
-
-## Related Projects in This Portfolio
-
-- Project 2: Risk Register for a Mock Company
-- Project 3: Third-Party Vendor Assessment Template
-- Project 4: Incident Response Plan
-- Project 5: SOC 2 Control Mapping to AWS
-- Project 6: Compliance Dashboard
-- Project 7: Mock Internal Audit
